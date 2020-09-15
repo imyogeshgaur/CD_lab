@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 char array[10][20],temp[10];
 int c,n;
 void fun(int,int[]);
