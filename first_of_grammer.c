@@ -7,7 +7,7 @@ int fun2(int i,int j,int p[],int );
 void main()
 {
    int p[2],i,j;
-   printf("Enter the no. of productions :");
+   printf("Enter the number of productions :");
    scanf("%d",&n);
    printf("Enter the productions :\n");
    for(i=0;i<n;i++)
