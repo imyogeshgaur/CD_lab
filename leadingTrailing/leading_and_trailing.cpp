@@ -55,7 +55,8 @@ void installt(int a, int b)
 
 int main()
 {
-    cout << "Name : Yogesh Gaur \nRoll No : 1816110248\n";
+    cout << "Name : Yogesh Gaur " << endl;
+    cout << "Roll No : 1816110248" << endl;
     int i, s, k, j, n;
     char pr[30][30], b, c;
     cout << "Enter the no of productions:";
